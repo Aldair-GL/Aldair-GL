@@ -5,7 +5,7 @@ Desarrollador de Software Multiplataforma · Full-Stack Developer · Especialist
 </h3>
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x300.png?text=Tu+banner+aqu%C3%AD" alt="Banner de perfil" />
+  ![Banner de perfil](./Aldair_Banner.jpg)
 </p>
 
 <p align="center">
