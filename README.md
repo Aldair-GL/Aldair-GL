@@ -14,12 +14,12 @@ Desarrollador de Software Multiplataforma · Full-Stack Developer · Especialist
 
 ---
 
-## 🚀 Sobre mí
+## 👥 Sobre mí
 
 En **2020** completé mi formación con **Tokio School**, obteniendo la certificación como **Diseñador de Videojuegos**.  
 Desde entonces, he seguido desarrollando un perfil que une creatividad, diseño y programación.
 
-En **2025** inicié una **FP Dual Intensiva en Desarrollo de Aplicaciones Multiplataforma (DAM)**, etapa que estoy a punto de finalizar y que me ha permitido consolidar conocimientos en desarrollo backend, desarrollo móvil y tecnologías web modernas.
+En **2024** inicié una **FP Dual Intensiva en Desarrollo de Aplicaciones Multiplataforma (DAM)**, etapa que estoy a punto de finalizar y que me ha permitido consolidar conocimientos en desarrollo backend, desarrollo móvil y tecnologías web modernas.
 
 También he realizado proyectos **freelance** para pequeños negocios, desarrollando soluciones web reales y trabajando tanto en desarrollo full stack como en herramientas como **WordPress**, adaptándome a las necesidades de cada cliente y proyecto.
 
