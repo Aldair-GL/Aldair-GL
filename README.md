@@ -25,8 +25,6 @@ En **2024** inicié una **FP Dual Intensiva en Desarrollo de Aplicaciones Multip
 
 También he realizado proyectos **freelance** para pequeños negocios, desarrollando soluciones web reales y trabajando tanto en desarrollo full stack como en herramientas como **WordPress**, adaptándome a las necesidades de cada cliente y proyecto.
 
-Actualmente sigo creciendo en áreas como el **desarrollo multiplataforma**, el **full stack**, la **automatización con IA** y el **desarrollo de videojuegos**.
-
 ---
 
 ## 🛠️ Stack y especialidades
@@ -34,7 +32,7 @@ Actualmente sigo creciendo en áreas como el **desarrollo multiplataforma**, el 
 - **Backend:** Java · Spring Boot
 - **Frontend:** HTML · CSS · SCSS · JavaScript · TypeScript · Angular
 - **Mobile:** Kotlin · Flutter
-- **Otros:** WordPress · IA aplicada · Diseño de videojuegos
+- **Otros:** WordPress · IA Agents · Diseño de Videojuegos
 
 ---
 
@@ -47,17 +45,10 @@ Actualmente sigo creciendo en áreas como el **desarrollo multiplataforma**, el 
 
 ---
 
-## 📂 Proyectos
-
-Próximamente compartiré aquí proyectos personales y profesionales que reflejen mi trabajo, aprendizaje y evolución como desarrollador.
-
----
-
 ## 📫 Contacto
 
-- ✉️ Correo: `tu-correo@ejemplo.com`
-- 💼 LinkedIn: `tu-linkedin`
-- 🌐 Portafolio: `tu-web`
+- ✉️ Correo: `alejandro555azpeitia@gmail.com`
+- 💼 LinkedIn: `Alejandro Azpeitia Blanco`
 - 🐙 GitHub: **@Aldair-GL**
 
 ---
