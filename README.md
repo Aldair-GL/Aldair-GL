@@ -1,7 +1,7 @@
 <h1 align="center">¡Saludos! Soy Alejandro “Aldair” Azpeitia 👋</h1>
 
 <h3 align="center">
-Desarrollador de Software Multiplataforma · Especialista en soluciones con IA · Diseñador de Videojuegos · Creador de Contenido
+Desarrollador de Software Multiplataforma · Especialista en soluciones con IA · Diseñador de Videojuegos
 </h3>
 
 <p align="center">
