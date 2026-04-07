@@ -5,7 +5,9 @@ Desarrollador de Software Multiplataforma · Full-Stack Developer · Especialist
 </h3>
 
 <p align="center">
+  <p align="center">
   ![Banner de perfil](./Aldair_Banner.jpg)
+</p>
 </p>
 
 <p align="center">
