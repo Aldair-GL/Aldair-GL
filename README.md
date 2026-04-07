@@ -6,7 +6,7 @@ Desarrollador de Software Multiplataforma · Full-Stack Developer · Especialist
 
 <p align="center">
   <p align="center">
-  ![Banner de perfil](./Aldair_Banner.jpg)
+  <img src="./Aldair_Banner.jpg" alt="Banner de perfil de Alejandro Aldair Azpeitia" width="100%" />
 </p>
 </p>
 
