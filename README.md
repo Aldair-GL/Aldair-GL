@@ -5,11 +5,11 @@ Desarrollador de Software Multiplataforma · Full-Stack Developer · Especialist
 </h3>
 
 <p align="center">
-  <div style="width:100%; height:260px; overflow:hidden;">
+ <div style="width:100%; height:230px; overflow:hidden;">
   <img
     src="./Aldair_Banner.jpg"
     alt="Banner de perfil de Alejandro Aldair Azpeitia"
-    style="width:100%; margin-top:-10px;"
+    style="width:100%; margin-top:-8px;"
   />
 </div>
 </p>
