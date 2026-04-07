@@ -49,11 +49,19 @@ También he realizado proyectos **freelance** para pequeños negocios, desarroll
 
 ---
 
-## 📫 Contacto
+## 📬 Encuéntrame en
 
-- ✉️ Correo: `alejandro555azpeitia@gmail.com`
-- 💼 LinkedIn: `Alejandro Azpeitia Blanco`
-- 🐙 GitHub: **@Aldair-GL**
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-Aldair--GL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
+[![Twitch](https://img.shields.io/badge/Twitch-Aldair__GL-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/)
+[![Discord](https://img.shields.io/badge/Discord-Aldair__GL-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-@aldairgl-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![TikTok](https://img.shields.io/badge/TikTok-@aldairgl-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Aldair%20Azpeitia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/](https://www.linkedin.com/in/alejandroazpeitiablanco/))
+[![Portfolio](https://img.shields.io/badge/Web-Portafolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tuweb.com)
+
+</div>
 
 ---
 
